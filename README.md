@@ -3,7 +3,7 @@
 
 2. Dependencies
 
-i JAVA DEvelopment Environment
+i JAVA Dvvelopment Environment
 You can download latest from https://www.oracle.com/technetwork/java/javase/downloads/index.html. Add it to class path.
 
 ii.JUNIT5
