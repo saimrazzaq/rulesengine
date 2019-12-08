@@ -3,7 +3,7 @@
 
 2. Dependencies
 
-i JAVA Dvvelopment Environment
+i JAVA Development Environment
 You can download latest from https://www.oracle.com/technetwork/java/javase/downloads/index.html. Add it to class path.
 
 ii.JUNIT5
@@ -17,4 +17,6 @@ external jar.
 3. To Run Tests
    Right click on Tests.java(file type junit) file and run as Junit. There are 10 tests that will show as pass or fail.
 
-4. In case of any project set up or execution issue, please feel free to reach out to saim.razzaq@gmail.com
+4. I have added a new rule in rules.json i.e. if a person's state is hawaii, then add 0.2 to interest rate.
+
+5. In case of any project set up or execution issue, please feel free to reach out to saim.razzaq@gmail.com
