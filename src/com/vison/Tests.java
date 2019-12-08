@@ -141,7 +141,7 @@ class Tests {
 		Person person = new Person(500,"texas");
 		Rules[] rules = rulesengine.loadrules();
 		results =rulesengine.run_rules(person,products,rules);
-		System.out.println("Test 9");
+		System.out.println("Test 10");
 		System.out.println("product interest rate is :" + results[0]);
 		System.out.println("product disqualified is :" +results[1]);
 		
