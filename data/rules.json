@@ -1,0 +1,38 @@
+[
+{
+"criteria": "creditscore",
+"condition": ">=",
+"value":720,
+"action": "-",
+"parameter": 0.3
+},
+
+{
+"criteria":"creditscore",
+"condition": "<",
+"value": 720,
+"action": "+",
+"parameter":0.5
+},
+
+{
+"criteria":"state",
+"condition": "florida",
+"action": "disqualified",
+"parameter":-1
+},
+
+{
+"criteria":"state",
+"condition": "hawaii",
+"action": "+",
+"parameter":0.2
+},
+
+{
+"criteria": "product",
+"condition": "7-1 ARM",
+"action": "+",
+"parameter": 0.5
+}
+]
